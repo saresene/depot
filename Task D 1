@@ -1,4 +1,0 @@
-git init
-git add .
-git commit -m "Task D"
-git remote add origin https://github.com/saresene/depot
